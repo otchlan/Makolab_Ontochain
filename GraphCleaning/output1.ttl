@@ -1,0 +1,1002 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://geo.org/places/AD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Andorra> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/AE> a ns1:Country ;
+    rdfs:label <http://example.org/country/United_Arab_Emirates> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/AF> a ns1:Country ;
+    rdfs:label <http://example.org/country/Afghanistan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/AG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Antigua_and_Barbuda> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/AI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Anguilla> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/AL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Albania> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/AM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Armenia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/AO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Angola> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/AR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Argentina> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/AS> a ns1:Country ;
+    rdfs:label <http://example.org/country/American_Samoa> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/AT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Austria> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/AU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Australia> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/AW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Aruba> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/AX> a ns1:Country ;
+    rdfs:label <http://example.org/country/Åland> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/AZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Azerbaijan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/BA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bosnia_and_Herzegovina> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/BB> a ns1:Country ;
+    rdfs:label <http://example.org/country/Barbados> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/BD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bangladesh> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/BE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Belgium> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/BF> a ns1:Country ;
+    rdfs:label <http://example.org/country/Burkina_Faso> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/BG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bulgaria> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/BH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bahrain> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/BI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Burundi> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/BJ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Benin> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/BL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Barthélemy> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/BM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bermuda> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/BN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Brunei> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/BO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bolivia> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/BQ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bonaire> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/BR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Brazil> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/BS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bahamas> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/BT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Bhutan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/BW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Botswana> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/BY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Belarus> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/BZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Belize> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/CA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Canada> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/CD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Democratic_Republic_of_the_Congo> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/CF> a ns1:Country ;
+    rdfs:label <http://example.org/country/Central_African_Republic> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/CG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Republic_of_the_Congo> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/CH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Switzerland> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/CI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Ivory_Coast> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/CK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cook_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/CL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Chile> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/CM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cameroon> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/CN> a ns1:Country ;
+    rdfs:label <http://example.org/country/China> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/CO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Colombia> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/CR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Costa_Rica> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/CU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cuba> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/CV> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cape_Verde> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/CW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Curacao> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/CX> a ns1:Country ;
+    rdfs:label <http://example.org/country/Christmas_Island> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/CY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cyprus> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/CZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Czechia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/DE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Germany> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/DJ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Djibouti> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/DK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Denmark> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/DM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Dominica> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/DO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Dominican_Republic> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/DZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Algeria> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/EC> a ns1:Country ;
+    rdfs:label <http://example.org/country/Ecuador> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/EE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Estonia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/EG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Egypt> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/EH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Western_Sahara> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/ER> a ns1:Country ;
+    rdfs:label <http://example.org/country/Eritrea> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/ES> a ns1:Country ;
+    rdfs:label <http://example.org/country/Spain> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/ET> a ns1:Country ;
+    rdfs:label <http://example.org/country/Ethiopia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/FI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Finland> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/FJ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Fiji> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/FK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Falkland_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/FM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Micronesia> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/FO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Faroe_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/FR> a ns1:Country ;
+    rdfs:label <http://example.org/country/France> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/GA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Gabon> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/GB> a ns1:Country ;
+    rdfs:label <http://example.org/country/United_Kingdom> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/GD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Grenada> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/GE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Georgia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/GF> a ns1:Country ;
+    rdfs:label <http://example.org/country/French_Guiana> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/GG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guernsey> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/GH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Ghana> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/GI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Gibraltar> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/GL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Greenland> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/GM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Gambia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/GN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guinea> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/GP> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guadeloupe> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/GQ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Equatorial_Guinea> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/GR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Greece> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/GT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guatemala> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/GU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guam> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/GW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guinea-Bissau> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/GY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Guyana> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/HK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Hong_Kong> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/HN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Honduras> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/HR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Croatia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/HT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Haiti> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/HU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Hungary> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/ID> a ns1:Country ;
+    rdfs:label <http://example.org/country/Indonesia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/IE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Ireland> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/IL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Israel> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/IM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Isle_of_Man> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/IN> a ns1:Country ;
+    rdfs:label <http://example.org/country/India> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/IO> a ns1:Country ;
+    rdfs:label <http://example.org/country/British_Indian_Ocean_Territory> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/IQ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Iraq> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/IR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Iran> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/IS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Iceland> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/IT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Italy> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/JE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Jersey> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/JM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Jamaica> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/JO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Jordan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/JP> a ns1:Country ;
+    rdfs:label <http://example.org/country/Japan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/KE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Kenya> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/KG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Kyrgyzstan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/KH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cambodia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/KI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Kiribati> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/KM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Comoros> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/KN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Kitts_and_Nevis> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/KP> a ns1:Country ;
+    rdfs:label <http://example.org/country/North_Korea> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/KR> a ns1:Country ;
+    rdfs:label <http://example.org/country/South_Korea> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/KW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Kuwait> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/KY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Cayman_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/KZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Kazakhstan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/LA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Laos> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/LB> a ns1:Country ;
+    rdfs:label <http://example.org/country/Lebanon> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/LC> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Lucia> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/LI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Liechtenstein> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/LK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Sri_Lanka> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/LR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Liberia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/LS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Lesotho> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/LT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Lithuania> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/LU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Luxembourg> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/LV> a ns1:Country ;
+    rdfs:label <http://example.org/country/Latvia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/LY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Libya> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Morocco> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MC> a ns1:Country ;
+    rdfs:label <http://example.org/country/Monaco> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/MD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Moldova> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/ME> a ns1:Country ;
+    rdfs:label <http://example.org/country/Montenegro> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/MF> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Martin> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/MG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Madagascar> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Marshall_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/MK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Macedonia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/ML> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mali> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Myanmar> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/MN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mongolia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/MO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Macao> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/MP> a ns1:Country ;
+    rdfs:label <http://example.org/country/Northern_Mariana_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/MQ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Martinique> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/MR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mauritania> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Montserrat> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/MT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Malta> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/MU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mauritius> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MV> a ns1:Country ;
+    rdfs:label <http://example.org/country/Maldives> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/MW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Malawi> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/MX> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mexico> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/MY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Malaysia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/MZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mozambique> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/NA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Namibia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/NC> a ns1:Country ;
+    rdfs:label <http://example.org/country/New_Caledonia> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/NE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Niger> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/NF> a ns1:Country ;
+    rdfs:label <http://example.org/country/Norfolk_Island> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/NG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Nigeria> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/NI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Nicaragua> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/NL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Netherlands> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/NO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Norway> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/NP> a ns1:Country ;
+    rdfs:label <http://example.org/country/Nepal> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/NR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Nauru> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/NU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Niue> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/NZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/New_Zealand> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/OM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Oman> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/PA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Panama> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/PE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Peru> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/PF> a ns1:Country ;
+    rdfs:label <http://example.org/country/French_Polynesia> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/PG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Papua_New_Guinea> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/PH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Philippines> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/PK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Pakistan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/PL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Poland> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/PM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Pierre_and_Miquelon> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/PN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Pitcairn_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/PR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Puerto_Rico> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/PS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Palestine> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/PT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Portugal> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/PW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Palau> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/PY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Paraguay> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/QA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Qatar> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/RE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Réunion> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/RO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Romania> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/RS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Serbia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/RU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Russia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/RW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Rwanda> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saudi_Arabia> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/SB> a ns1:Country ;
+    rdfs:label <http://example.org/country/Solomon_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/SC> a ns1:Country ;
+    rdfs:label <http://example.org/country/Seychelles> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Sudan> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Sweden> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/SG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Singapore> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/SH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Helena> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SI> a ns1:Country ;
+    rdfs:label <http://example.org/country/Slovenia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/SJ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Svalbard_and_Jan_Mayen> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/SK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Slovakia> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/SL> a ns1:Country ;
+    rdfs:label <http://example.org/country/Sierra_Leone> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SM> a ns1:Country ;
+    rdfs:label <http://example.org/country/San_Marino> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/SN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Senegal> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Somalia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Suriname> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/SS> a ns1:Country ;
+    rdfs:label <http://example.org/country/South_Sudan> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/ST> a ns1:Country ;
+    rdfs:label <http://example.org/country/São_Tomé_and_Príncipe> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/SV> a ns1:Country ;
+    rdfs:label <http://example.org/country/El_Salvador> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/SX> a ns1:Country ;
+    rdfs:label <http://example.org/country/Sint_Maarten> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/SY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Syria> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/SZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Swaziland> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/TC> a ns1:Country ;
+    rdfs:label <http://example.org/country/Turks_and_Caicos_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/TD> a ns1:Country ;
+    rdfs:label <http://example.org/country/Chad> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/TG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Togo> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/TH> a ns1:Country ;
+    rdfs:label <http://example.org/country/Thailand> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/TJ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Tajikistan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/TK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Tokelau> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/TL> a ns1:Country ;
+    rdfs:label <http://example.org/country/East_Timor> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/TM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Turkmenistan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/TN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Tunisia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/TO> a ns1:Country ;
+    rdfs:label <http://example.org/country/Tonga> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/TR> a ns1:Country ;
+    rdfs:label <http://example.org/country/Turkey> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/TT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Trinidad_and_Tobago> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/TV> a ns1:Country ;
+    rdfs:label <http://example.org/country/Tuvalu> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/TW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Taiwan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/TZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Tanzania> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/UA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Ukraine> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/UG> a ns1:Country ;
+    rdfs:label <http://example.org/country/Uganda> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/US> a ns1:Country ;
+    rdfs:label <http://example.org/country/United_States> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/UY> a ns1:Country ;
+    rdfs:label <http://example.org/country/Uruguay> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/UZ> a ns1:Country ;
+    rdfs:label <http://example.org/country/Uzbekistan> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/VA> a ns1:Country ;
+    rdfs:label <http://example.org/country/Vatican_City> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/VC> a ns1:Country ;
+    rdfs:label <http://example.org/country/Saint_Vincent_and_the_Grenadines> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/VE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Venezuela> ;
+    ns1:containedInPlace <http://geo.org/places/SouthAmerica> .
+
+<http://geo.org/places/VG> a ns1:Country ;
+    rdfs:label <http://example.org/country/British_Virgin_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/VI> a ns1:Country ;
+    rdfs:label <http://example.org/country/U.S._Virgin_Islands> ;
+    ns1:containedInPlace <http://geo.org/places/NorthAmerica> .
+
+<http://geo.org/places/VN> a ns1:Country ;
+    rdfs:label <http://example.org/country/Vietnam> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/VU> a ns1:Country ;
+    rdfs:label <http://example.org/country/Vanuatu> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/WF> a ns1:Country ;
+    rdfs:label <http://example.org/country/Wallis_and_Futuna> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/WS> a ns1:Country ;
+    rdfs:label <http://example.org/country/Samoa> ;
+    ns1:containedInPlace <http://geo.org/places/Oceania> .
+
+<http://geo.org/places/XK> a ns1:Country ;
+    rdfs:label <http://example.org/country/Kosovo> ;
+    ns1:containedInPlace <http://geo.org/places/Europe> .
+
+<http://geo.org/places/YE> a ns1:Country ;
+    rdfs:label <http://example.org/country/Yemen> ;
+    ns1:containedInPlace <http://geo.org/places/Asia> .
+
+<http://geo.org/places/YT> a ns1:Country ;
+    rdfs:label <http://example.org/country/Mayotte> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/ZA> a ns1:Country ;
+    rdfs:label <http://example.org/country/South_Africa> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/ZM> a ns1:Country ;
+    rdfs:label <http://example.org/country/Zambia> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/ZW> a ns1:Country ;
+    rdfs:label <http://example.org/country/Zimbabwe> ;
+    ns1:containedInPlace <http://geo.org/places/Africa> .
+
+<http://geo.org/places/Worldwide> a ns1:Place ;
+    rdfs:label <http://example.org/country/Worldwide> .
+
+<http://geo.org/places/SouthAmerica> a ns1:Place ;
+    rdfs:label <http://example.org/country/South_America> ;
+    ns1:containedInPlace <http://geo.org/places/Worldwide> .
+
+<http://geo.org/places/Oceania> a ns1:Place ;
+    rdfs:label <http://example.org/country/Oceania> ;
+    ns1:containedInPlace <http://geo.org/places/Worldwide> .
+
+<http://geo.org/places/NorthAmerica> a ns1:Place ;
+    rdfs:label <http://example.org/country/North_America> ;
+    ns1:containedInPlace <http://geo.org/places/Worldwide> .
+
+<http://geo.org/places/Asia> a ns1:Place ;
+    rdfs:label <http://example.org/country/Asia> ;
+    ns1:containedInPlace <http://geo.org/places/Worldwide> .
+
+<http://geo.org/places/Europe> a ns1:Place ;
+    rdfs:label <http://example.org/country/Europe> ;
+    ns1:containedInPlace <http://geo.org/places/Worldwide> .
+
+<http://geo.org/places/Africa> a ns1:Place ;
+    rdfs:label <http://example.org/country/Africa> ;
+    ns1:containedInPlace <http://geo.org/places/Worldwide> .
+
